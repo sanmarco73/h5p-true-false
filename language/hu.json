@@ -79,7 +79,7 @@
           "default": "Megmutatja a helyes megoldást. A beküldött feladat a helyes megoldásával együtt jelenik meg."
         },
         {
-          "label": "Akadálymentesítő leírás az "Újra próbálkozás" gombhoz",
+          "label": "Akadálymentesítő leírás az \"Újra próbálkozás\" gombhoz",
           "default": "Próbálja újra a feladatot. Törölje a válaszait, és kezdje újra a feladatot."
         }
       ]
